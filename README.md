@@ -5,7 +5,7 @@
 <br/>**encontrara cuatro columnas responsive que de adaptan a los tamaños mencionados con diferentes tipos de colores.**<br/>
 <br/>***La maqueta 2:***<br/>
 <br/>**encontrara un header 3 columnas y dos footer que se iran disponiendo responsivamente gracias a las propiedades de bootstrap.**<br/>
-<br/>***la maqueta 3***<br/>
+<br/>***la maqueta 3:***<br/>
 <br/>**encontrara 6 columnas que se disponen responsivamente mediante las propiedades extra small, small, medium y large de bootstrap.**<br/>
 <br/>***la maqueta 4:***<br/>
 <br/>**encontrara 16 columnas que se disponen responsivamente estas en especial es que mediante las etiquetas media y display none logramos cambiar el color de una columna y eliminar la columna 2.**<br/>
