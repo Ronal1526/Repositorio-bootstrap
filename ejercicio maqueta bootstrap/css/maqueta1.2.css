@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#col1{
+    background-color: rgb(142, 7, 77);
+}
+#col2{
+    background-color: rgb(255, 0, 153);
+}
+#col3{
+    background-color: rgb(77, 189, 226);
+}
+#col4{
+    background-color: rgb(61, 93, 60);
+}
+
