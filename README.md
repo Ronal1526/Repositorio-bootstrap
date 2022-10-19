@@ -15,3 +15,4 @@ la parte de arriba con diversos colores y al igual que las demas maquetas esta t
 <br/>***la maqueta 6:***<br/>
 <br/>**encontrara una tienda virtual totalmente responsive que hace uso ademas de los modals y los targets que dispone bootstrap al igual quese le
 agregaron unos colores y un hover para que cuando se pase el puntero esta cambie de color.**<br/>
+
